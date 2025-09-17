@@ -1,6 +1,8 @@
 # WebRotator
 
 A single PHP page that opens one controlled browser window and rotates through a list of sites on a timer.  Built with and for **Nilesh Ramrattan, MBA**.  Coded by **ChatGPT** based on Nilesh’s input, requirements, and suggestions.
+[![php-lint](https://github.com/RamrattanN/WebRotator/actions/workflows/php-lint.yml/badge.svg?branch=main)](https://github.com/RamrattanN/WebRotator/actions/workflows/php-lint.yml?query=branch%3Amain)
+
 
 ## Features
 
@@ -47,3 +49,4 @@ Run a very small lint check locally:
 
 ```bash
 php -l WebRotatorV1.14.php
+
