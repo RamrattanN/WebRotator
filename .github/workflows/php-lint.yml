@@ -15,5 +15,9 @@ jobs:
         with:
           php-version: "8.2"
 
-      - name: Lint PHP
-        run: php -l WebRotatorV1.15.php
+      - name: Lint all WebRotator files
+        run: |
+          set -e
+          for f in WebRotatorV*.php; do
+            php -l "$f"
+          done
