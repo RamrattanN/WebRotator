@@ -1,0 +1,2 @@
+# WebRotator
+Customizable URL rotator
