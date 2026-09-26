@@ -19,7 +19,7 @@ A single PHP page that opens one controlled browser window and rotates through a
 
 ## Quick start
 
-1. Download the file from the [latest release](https://github.com/RamrattanN/WebRotator/releases/latest).  If you prefer, rename it to `WebRotator.php` on your server so your deploy path never changes.
+1. Download [`WebRotatorV1.15.php`](https://github.com/RamrattanN/WebRotator/blob/main/WebRotatorV1.15.php) from this repository.  No GitHub Release is currently published.  If you prefer, rename it to `WebRotator.php` on your server so your deploy path never changes.
 2. Edit the `$urls` array near the top of the file to suit your playlist.  The default list contains major news sites.  
 3. Optionally change `$intervalMs` to set the period in milliseconds.  
 4. Visit the page.  Click **Start**.  Allow popups if prompted.
@@ -51,3 +51,4 @@ Run a very small lint check locally:
 php -l WebRotatorV1.15.php
 
 
+```
