@@ -2,7 +2,7 @@
 
 ## Supported versions
 
-The current released version is supported.  Older versions may not receive fixes.
+Security fixes are considered for the current repository version, `WebRotatorV1.15.php`.  No GitHub Release is currently published.  Older versions may not receive fixes.
 
 ## Reporting a vulnerability
 
